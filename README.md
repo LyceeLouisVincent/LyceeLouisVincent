@@ -1,6 +1,6 @@
 # 🌐 Refonte du site du Lycée Louis Vincent
 
-![Logo du Lycée]([logo.png]) <!-- Remplacer par le chemin du logo -->
+![Bannière](https://www.lycee-louis-vincent.fr/images/bannerfans_11654068.png)
 
 ## 🚀 Projet : Refonte complète du site internet du Lycée Louis Vincent
 
