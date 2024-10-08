@@ -1,6 +1,6 @@
 # 🌐 Refonte du site du Lycée Louis Vincent
 
-![Logo du Lycée]([./assets/logo.png](https://www.lycee-louis-vincent.fr/images/bannerfans_11654068.png)) <!-- Remplacer par le chemin du logo -->
+![Logo du Lycée]([logo.png]) <!-- Remplacer par le chemin du logo -->
 
 ## 🚀 Projet : Refonte complète du site internet du Lycée Louis Vincent
 
@@ -94,15 +94,11 @@ php artisan migrate
 php artisan serve
 ```
 ### 3. Configurer le front-end avec TailwindCSS
-#### a. Naviguer vers le répertoire du front-end :
-```bash
-cd frontend
-```
-#### b. Installer les dépendances TailwindCSS (si applicable) :
+#### a. Installer les dépendances TailwindCSS (si applicable) :
 ```bash
 npm install
 ```
-#### c. Lancer la compilation des fichiers Tailwind :
+#### b. Lancer la compilation des fichiers Tailwind :
 ```bash
 npm run dev
 ```
